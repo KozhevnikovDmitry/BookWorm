@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWorm.Analyse", "BookWorm.Analyse\BookWorm.Analyse.csproj", "{18D073AD-3891-4C95-B48B-4669A396A2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWorm.Reader", "BookWorm.Reader\BookWorm.Reader.csproj", "{ACCDAD15-A39D-488F-83CC-B1BF856292B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWorm.Messages", "BookWorm.Messages\BookWorm.Messages.csproj", "{065F4120-4405-462D-AFF3-12091B3CE60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D073AD-3891-4C95-B48B-4669A396A2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D073AD-3891-4C95-B48B-4669A396A2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D073AD-3891-4C95-B48B-4669A396A2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D073AD-3891-4C95-B48B-4669A396A2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCDAD15-A39D-488F-83CC-B1BF856292B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCDAD15-A39D-488F-83CC-B1BF856292B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCDAD15-A39D-488F-83CC-B1BF856292B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCDAD15-A39D-488F-83CC-B1BF856292B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065F4120-4405-462D-AFF3-12091B3CE60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065F4120-4405-462D-AFF3-12091B3CE60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065F4120-4405-462D-AFF3-12091B3CE60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065F4120-4405-462D-AFF3-12091B3CE60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
